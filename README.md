@@ -22,24 +22,6 @@ PoC exists to:
 
 It is a memory constraint, not a truth test.
 
-## Core Rule
-
-A claim qualifies for durable record only if it includes:
-
-1. The claim itself
-
-2. A credible opposing or conflicting view
-
-3. The internal logic of that opposing view
-
-4. Known failure modes of the primary claim or its dissent
-
-If credible contradiction cannot be documented, the claim may still be recorded, but flagged as:
-
-> “Low-Contradiction Record”
-
-This flag indicates absence of documented dissent, not correctness.
-
 ## What PoC Does Not Do
 
 PoC:
